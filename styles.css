@@ -26,9 +26,18 @@ h2{
 	background-color:rgb(255, 255, 255);
 	padding:10px;
 	box-sizing: border-box;
+	width:100%
 }
 
 .player_two{
 	background-color:rgb(255, 255, 255);
 	padding:10px;
+	box-sizing: border-box;
+	width:100%;
+}
+.audio_name{
+	padding:1px 15px 0;
+	font-weight:bold;
+	font-size:12px;
+	/* margin:10px 0 5px 0; */
 }
